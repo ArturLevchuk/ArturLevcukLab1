@@ -1,8 +1,4 @@
 Lab number 1 is ready!
 New change!
 Extra changes.
-Few more changes.
-Fourth commit.
-Sixth commit.
-Seventh commit???
-Eighth commit!
+123
